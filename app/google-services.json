@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677665209810",
+    "project_id": "rosebowapp",
+    "storage_bucket": "rosebowapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677665209810:android:63bbd31eaedc15ff869c0b",
+        "android_client_info": {
+          "package_name": "com.example.rosebowapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC73E87W7LIt_vq5EcXopvToGdPWKKj-9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
